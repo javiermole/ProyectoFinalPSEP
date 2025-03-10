@@ -1,0 +1,157 @@
+{
+  "drivers": [
+    {
+      "name": "Michael Schumacher",
+      "nationality": "German",
+      "titles": 7,
+      "wins": 91,
+      "podiums": 155,
+      "fastestLaps": 77,
+      "poles": 68,
+      "teams": ["Jordan", "Benetton", "Ferrari", "Mercedes"]
+    },
+    {
+      "name": "Lewis Hamilton",
+      "nationality": "British",
+      "titles": 7,
+      "wins": 103,
+      "podiums": 197,
+      "fastestLaps": 65,
+      "poles": 104,
+      "teams": ["McLaren", "Mercedes"]
+    },
+    {
+      "name": "Ayrton Senna",
+      "nationality": "Brazilian",
+      "titles": 3,
+      "wins": 41,
+      "podiums": 80,
+      "fastest_laps": 19,
+      "poles": 65,
+      "teams": ["Toleman", "Lotus", "McLaren", "Williams"]
+    },
+    {
+      "name": "Fernando Alonso",
+      "nationality": "Spanish",
+      "titles": 2,
+      "wins": 32,
+      "podiums": 106,
+      "fastest_laps": 23,
+      "poles": 22,
+      "teams": ["Minardi", "Renault", "McLaren", "Ferrari", "Aston Martin"]
+    },
+    {
+      "name": "Max Verstappen",
+      "nationality": "Dutch",
+      "titles": 3,
+      "wins": 54,
+      "podiums": 98,
+      "fastestLaps": 33,
+      "poles": 32,
+      "teams": ["Toro Rosso", "Red Bull"]
+    }
+  ],
+  "teams": [
+    {
+      "name": "Ferrari",
+      "nationality": "Italy",
+      "championships": 16,
+      "raceWins": 243,
+      "podiums": 800,
+      "drivers": ["Charles Leclerc", "Carlos Sainz"]
+    },
+    {
+      "name": "Mercedes",
+      "nationality": "Germany",
+      "championships": 8,
+      "raceWins": 125,
+      "podiums": 286,
+      "drivers": ["Lewis Hamilton", "George Russell"]
+    },
+    {
+      "name": "Red Bull Racing",
+      "nationality": "Austria",
+      "championships": 6,
+      "raceWins": 113,
+      "podiums": 264,
+      "drivers": ["Max Verstappen", "Sergio Pérez"]
+    },
+    {
+      "name": "McLaren",
+      "nationality": "UK",
+      "championships": 8,
+      "race_wins": 183,
+      "podiums": 500,
+      "drivers": ["Ayrton Senna", "Lewis Hamilton", "Lando Norris"]
+    },
+    {
+      "name": "Williams",
+      "nationality": "UK",
+      "championships": 9,
+      "race_wins": 114,
+      "podiums": 300,
+      "drivers": ["Nigel Mansell", "Damon Hill", "Jacques Villeneuve"]
+    }
+  ],
+  "circuits": [
+    {
+      "name": "Monza",
+      "location": "Italy",
+      "firstRace": 1950,
+      "lengthKm": 5.793,
+      "lapRecord": "1:21.046",
+      "recordHolder": "Rubens Barrichello"
+    },
+    {
+      "name": "Silverstone",
+      "location": "United Kingdom",
+      "firstRace": 1950,
+      "lengthKm": 5.891,
+      "lapRecord": "1:27.097",
+      "recordHolder": "Max Verstappen"
+    },
+    {
+      "name": "Spa-Francorchamps",
+      "location": "Belgium",
+      "firstRace": 1950,
+      "lengthKm": 7.004,
+      "lapRecord": "1:46.286",
+      "recordHolder": "Valtteri Bottas"
+    },
+    {
+      "name": "Monaco",
+      "location": "Monaco",
+      "firstRace": 1950,
+      "lengthKm": 3.337,
+      "lapRecord": "1:12.909",
+      "recordHolder": "Lewis Hamilton"
+    },
+    {
+      "name": "Suzuka",
+      "location": "Japan",
+      "first_race": 1987,
+      "length_km": 5.807,
+      "lap_record": "1:30.983",
+      "record_holder": "Lewis Hamilton"
+    },
+    {
+      "name": "Interlagos",
+      "location": "Brazil",
+      "first_race": 1973,
+      "length_km": 4.309,
+      "lap_record": "1:10.540",
+      "record_holder": "Valtteri Bottas"
+    }
+  ],
+  "records": {
+    "mostWins": "Lewis Hamilton (103 wins)",
+    "mostPoles": "Lewis Hamilton (104 poles)",
+    "mostTitles": "Michael Schumacher, Lewis Hamilton (7 titles each)",
+    "fastestLapEver": "Valtteri Bottas - Monza 2020 (1:18.887)",
+    "most_podiums": "Lewis Hamilton (197 podiums)",
+    "most_race_starts": "Fernando Alonso (375 starts)",
+    "youngest_winner": "Max Verstappen (18 years, 228 days)",
+    "oldest_winner": "Luigi Fagioli (53 years, 22 days)"
+  }
+}
+

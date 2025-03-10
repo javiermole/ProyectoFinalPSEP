@@ -1,0 +1,42 @@
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.exe
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.deps.json
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.dll
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.pdb
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.dll
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\refint\cliente.dll
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.pdb
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal\cliente\obj\Debug\net8.0\ref\cliente.dll
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.exe
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.deps.json
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.dll
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.pdb
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.dll
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\refint\cliente.dll
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.pdb
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+C:\Users\javie\OneDrive\Escritorio\PSEP\ProyectoFinal\cliente\obj\Debug\net8.0\ref\cliente.dll
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.exe
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.deps.json
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.runtimeconfig.json
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.dll
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\bin\Debug\net8.0\cliente.pdb
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.AssemblyInfoInputs.cache
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.AssemblyInfo.cs
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.dll
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\refint\cliente.dll
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.pdb
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\cliente.genruntimeconfig.cache
+C:\Users\AlumTA\Desktop\PSEP MIO\ProyectoFinal (2)\ProyectoFinal\cliente\obj\Debug\net8.0\ref\cliente.dll
